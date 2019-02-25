@@ -1,4 +1,4 @@
-package com.jabulba.util;
+package com.jabulba.discordmanager.util;
 
 import java.util.Random;
 
